@@ -1,0 +1,12 @@
+:root{
+    --primary: #573b8a;
+    --dark-purple: #2f2a60;
+}
+
+*{
+    margin: 0;
+}
+
+.bg-dark{
+    background: var(--dark-purple) !important;
+}
